@@ -56786,9 +56786,9 @@ A.xN.prototype={
 O(a){var s=A.a([],t.D)
 if(this.c)s.push(A.bP("Blogs",A.cT().$3$color$fontSize$fontWeight(B.i,28,B.D)))
 s.push(B.bW)
+s.push(B.v2)
 s.push(B.v3)
 s.push(B.v4)
-s.push(B.v2)
 return A.d2(s,B.F)}}
 A.k_.prototype={
 af(){return new A.E1()}}
@@ -59084,7 +59084,7 @@ B.v_=new A.hm(1,1)
 B.v0=new A.oZ(12,"plus")
 B.v1=new A.oZ(13,"modulate")
 B.ev=new A.oZ(3,"srcOver")
-B.v2=new A.k_("https://miro.medium.com/v2/resize:fit:1400/format:webp/0*QAO7CuqPyR-gbPCV","Starting with Android \u2014 The How, What and Where","Some resources to get started with learning Android.","https://medium.com/slanglabs/starting-with-android-the-how-what-and-where-ba3029fd3b9b",null)
+B.v2=new A.k_("https://miro.medium.com/v2/resize:fit:1400/format:webp/1*lFZHhrWEaszSO4iLcOWwCw.png","Animating Bottom Sheets in Jetpack Compose: Add Life to Your UI","Bottom sheets are ubiquitous in apps, but how can you add delightful animations to your bottom sheets?","https://medium.com/slanglabs/animating-bottom-sheets-in-jetpack-compose-add-life-to-your-ui-981fbfe5f048",null)
 B.v3=new A.k_("https://miro.medium.com/v2/resize:fit:1400/format:webp/0*A77STyuid35pRuvB.png","The Data Collection Strategy Story at Slang Labs","The story of how we decided we needed a proper data collection strategy at Slang Labs.","https://medium.com/slanglabs/the-data-collection-strategy-story-at-slang-labs-49218f3404bb",null)
 B.v4=new A.k_("https://miro.medium.com/v2/resize:fit:1400/format:webp/0*BdacgOffShXWDdqK.jpg","Add Voice Commands to Android Apps","Learn how to add voice commands to your Android app without building a fancy speech recognition service.","https://medium.com/geekculture/add-voice-commands-to-android-apps-80157c0d5bcc",null)
 B.hW=new A.Li(0,"normal")
